@@ -20,7 +20,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     A187: '⚡Zeus Bot⚡',
     instagram: 'OFF',
-    nomer: 'wa.me/+5512996815604',
+    nomer: 'wa.me/(994)405950875',
     aktif: '24 JAM',
     whatsapp: 'https://chat.whatsapp.com/BhbpDQuPU9GLTUzcM52maB',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
